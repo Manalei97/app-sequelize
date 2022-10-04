@@ -1,5 +1,5 @@
 # App Sequelize
 
-I created this ripo  in the class with my teacher .
+I created this repo  in the class with my teacher .
 
 We will build a simple API.
