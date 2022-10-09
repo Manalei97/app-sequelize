@@ -1,6 +1,4 @@
-// const e = require('express')
 var models = require('../models')
-
 var store = async (req, res, next) => {
 
     var response = {

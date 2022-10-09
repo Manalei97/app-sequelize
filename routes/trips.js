@@ -1,8 +1,8 @@
 var express = require('express');
 var router = express.Router();
-var {store, destroy, update} = require("../controllers/tripControolers")
-const { index } = require('../controllers/tripControolers');
-const { show } = require('../controllers/tripControolers');
+var {store, destroy, update} = require("../controllers/tripControllers")
+const { index } = require('../controllers/tripControllers');
+const { show } = require('../controllers/tripControllers');
 
 
 router.post('/', store)
